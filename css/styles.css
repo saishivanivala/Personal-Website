@@ -19,7 +19,8 @@ body{
 
 .first-container{
   background-color: #bedcfa;
-  position: relative;
+  height:100%;
+  width=100%;
   padding: 50px 50px;
 }
 .second-container{
